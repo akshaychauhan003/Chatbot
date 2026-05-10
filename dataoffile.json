@@ -1,0 +1,274 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is your pricing?",
+      "keywords": ["pricing", "cost", "how much", "rate", "price", "packages", "plans", "fee"],
+      "answer": "<strong>3 tiers:</strong> Basic (₹15k/month), Pro (₹35k/month), Enterprise (₹75k+/month). Custom packages available. Free consultation to choose right plan!"
+    },
+    {
+      "id": 2,
+      "question": "What are your working hours?",
+      "keywords": ["hours", "available", "when open", "support hours", "timing", "24/7"],
+      "answer": "We're available <strong>24/7 via chat!</strong> 🕐 Phone support: Mon-Fri 9 AM - 6 PM IST."
+    },
+    {
+      "id": 3,
+      "question": "What services does Sunbuzz Media offer?",
+      "keywords": ["services", "product", "features", "what do you offer", "offerings", "solutions"],
+      "answer": "🛠️ <strong>Complete Digital Services:</strong><br>✅ AI Solutions & Chatbots<br>✅ Web Development<br>✅ Digital Marketing & SEO<br>✅ Branding & Design<br>✅ 3D/2D Animation & AR/VR<br>✅ Content Creation<br>✅ Audio & Sound Design"
+    },
+    {
+      "id": 4,
+      "question": "How do I contact Sunbuzz Media?",
+      "keywords": ["contact", "email", "phone", "reach", "call", "whatsapp", "telegram", "address"],
+      "answer": "📞 <strong>Contact Us:</strong><br>📧 Email: contact@sunbuzzmedia.site<br>📱 Phone: +91 7701890895<br>💬 WhatsApp: +91 7701890895<br>📍 Location: New Delhi, India"
+    },
+    {
+      "id": 5,
+      "question": "What is your refund policy?",
+      "keywords": ["refund", "money back", "return", "policy", "guarantee"],
+      "answer": "We offer a <strong>30-day money-back guarantee</strong> if you're not satisfied. No questions asked! Contact us for details."
+    },
+    {
+      "id": 6,
+      "question": "Do you offer free trial?",
+      "keywords": ["free trial", "trial period", "free plan", "demo", "test"],
+      "answer": "✅ <strong>Yes!</strong> 14-day free trial of all premium features. No credit card required to get started."
+    },
+    {
+      "id": 7,
+      "question": "How long does setup take?",
+      "keywords": ["setup", "installation", "how long", "time", "implementation", "duration"],
+      "answer": "Most clients are up and running within <strong>2-3 hours</strong>. Our team provides complete setup support and training."
+    },
+    {
+      "id": 8,
+      "question": "Do you provide API access?",
+      "keywords": ["api", "integration", "developers", "technical", "access", "documentation"],
+      "answer": "✅ <strong>Yes!</strong> Professional and Enterprise plans include full API access. Check our documentation at api.sunbuzzmedia.site"
+    },
+    {
+      "id": 9,
+      "question": "What is Sunbuzz Media?",
+      "keywords": ["company", "about", "what is", "sunbuzz media", "who are you"],
+      "answer": "🏢 <strong>Sunbuzz Media</strong> - Delhi-based digital agency<br>✅ Founded in 2020<br>✅ 200+ websites built<br>✅ 100% client satisfaction<br>✅ 300% average traffic growth<br>✅ 5+ awards won<br>✅ AI-powered solutions"
+    },
+    {
+      "id": 10,
+      "question": "Where is Sunbuzz Media located?",
+      "keywords": ["location", "where", "office", "address", "delhi", "india"],
+      "answer": "📍 <strong>Based in New Delhi, India</strong><br>We serve clients across:<br>✅ All major Indian cities (PAN India)<br>✅ USA, UK, Australia<br>✅ Middle East & Europe<br>✅ Remote-first approach = seamless delivery worldwide!"
+    },
+    {
+      "id": 11,
+      "question": "Is Sunbuzz Media a marketing agency or tech company?",
+      "keywords": ["marketing agency", "tech company", "what type", "both", "agency", "technology"],
+      "answer": "🎯 <strong>We are BOTH!</strong><br>Full-service digital marketing agency + AI-driven tech solutions company combining creativity with cutting-edge technology."
+    },
+    {
+      "id": 12,
+      "question": "Do you work with startups or established businesses?",
+      "keywords": ["startups", "established", "small business", "large business", "sme", "enterprise"],
+      "answer": "💼 <strong>We work with ALL:</strong><br>✅ Startups & SMEs<br>✅ Established businesses<br>✅ Fortune 500 companies<br>✅ Flexible packages for bootstrapped to large enterprises"
+    },
+    {
+      "id": 13,
+      "question": "Do you serve PAN India clients?",
+      "keywords": ["pan india", "all india", "india clients", "delhi", "mumbai", "bangalore"],
+      "answer": "✅ <strong>Yes! PAN India + Global</strong><br>Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Kolkata, and 100+ cities across India"
+    },
+    {
+      "id": 14,
+      "question": "Do you work with international clients?",
+      "keywords": ["international", "outside india", "global", "usa", "uk", "europe"],
+      "answer": "✅ <strong>Yes! Global Reach</strong><br>USA, UK, Australia, Middle East, Europe. Seamless remote delivery worldwide."
+    },
+    {
+      "id": 15,
+      "question": "Do you provide branding services?",
+      "keywords": ["branding", "brand identity", "logo", "design", "brand", "visual"],
+      "answer": "✅ <strong>Complete Branding Services:</strong><br>✅ Logo Design<br>✅ Brand Identity<br>✅ Visual Guidelines<br>✅ Brand Strategy<br>✅ Packaging Design"
+    },
+    {
+      "id": 16,
+      "question": "Do you create content?",
+      "keywords": ["content", "content creation", "video", "posts", "blogs", "reels"],
+      "answer": "✅ <strong>Complete Content Creation:</strong><br>✅ Social media posts & reels<br>✅ Videos & animations<br>✅ Blog posts<br>✅ Brochures<br>✅ Presentations"
+    },
+    {
+      "id": 17,
+      "question": "Do you manage social media?",
+      "keywords": ["social media", "smm", "instagram", "facebook", "linkedin", "youtube"],
+      "answer": "✅ <strong>Full Social Media Management:</strong><br>✅ Instagram, Facebook, LinkedIn, YouTube<br>✅ Content creation & posting<br>✅ Growth strategies<br>✅ Analytics & reporting"
+    },
+    {
+      "id": 18,
+      "question": "Do you design websites?",
+      "keywords": ["website", "design", "web design", "web development", "site"],
+      "answer": "✅ <strong>Custom Website Design & Development:</strong><br>✅ Responsive websites<br>✅ Landing pages<br>✅ Corporate sites<br>✅ SEO-optimized<br>✅ High-performance"
+    },
+    {
+      "id": 19,
+      "question": "Do you build e-commerce sites?",
+      "keywords": ["ecommerce", "online store", "shopify", "woocommerce", "store"],
+      "answer": "✅ <strong>E-commerce Solutions:</strong><br>✅ Shopify stores<br>✅ WooCommerce setup<br>✅ Payment integration<br>✅ Inventory management<br>✅ Conversion optimization"
+    },
+    {
+      "id": 20,
+      "question": "How can Sunbuzz Media help my business grow?",
+      "keywords": ["help business", "grow", "growth", "transformation", "expand", "increase"],
+      "answer": "<strong>Digital Transformation:</strong><br>Branding + Website + SMM + SEO + AI tools = <strong>3X growth in 3-6 months</strong>"
+    },
+    {
+      "id": 21,
+      "question": "Do you work on AI projects?",
+      "keywords": ["ai", "artificial intelligence", "ai tools", "chatbot", "automation", "ml"],
+      "answer": "✅ <strong>AI Specialists:</strong><br>✅ AI Chatbots & Voice Agents<br>✅ Content generation AI<br>✅ Marketing automation<br>✅ Data analytics & insights<br>✅ Custom AI solutions"
+    },
+    {
+      "id": 22,
+      "question": "Why choose Sunbuzz Media?",
+      "keywords": ["why choose", "why us", "benefits", "advantages", "unique", "different"],
+      "answer": "<strong>Why Choose Us:</strong><br>✅ Delhi-based, 4+ years experience<br>✅ PAN India + Global reach<br>✅ AI-powered solutions<br>✅ Startup-friendly pricing<br>✅ 24/7 support<br>✅ 100% client satisfaction"
+    },
+    {
+      "id": 23,
+      "question": "Do you provide ongoing support?",
+      "keywords": ["support", "maintenance", "customer support", "help", "after launch"],
+      "answer": "✅ <strong>24/7 Support + Maintenance:</strong><br>✅ Regular updates<br>✅ Security patches<br>✅ Performance optimization<br>✅ Dedicated account manager<br>✅ Maintenance packages available"
+    },
+    {
+      "id": 24,
+      "question": "Is the first consultation free?",
+      "keywords": ["free consultation", "first meeting", "free", "no cost", "consultation"],
+      "answer": "✅ <strong>Yes! FREE 30-min consultation</strong><br>Discuss your needs with our experts. No credit card required!"
+    },
+    {
+      "id": 25,
+      "question": "Can I talk to Sunbuzz Media team?",
+      "keywords": ["talk team", "meet team", "tech expert", "speak", "call", "discussion"],
+      "answer": "📞 <strong>Book FREE Call:</strong><br>Phone: +91 7701890895<br>WhatsApp: +91 7701890895<br>Email: contact@sunbuzzmedia.site<br>Schedule anytime for expert consultation!"
+    },
+    {
+      "id": 26,
+      "question": "Do you provide SEO services?",
+      "keywords": ["seo", "search engine", "google ranking", "optimization", "organic"],
+      "answer": "✅ <strong>Complete SEO Services:</strong><br>✅ On-page SEO<br>✅ Off-page SEO<br>✅ Technical SEO<br>✅ Local SEO<br>✅ 300% average traffic growth for clients"
+    },
+    {
+      "id": 27,
+      "question": "Can you redesign my old website?",
+      "keywords": ["redesign", "old website", "refresh", "update", "modernize"],
+      "answer": "✅ <strong>Modern Website Redesigns:</strong><br>✅ Faster loading<br>✅ Mobile-friendly<br>✅ SEO-optimized<br>✅ Better conversions<br>✅ Contemporary design"
+    },
+    {
+      "id": 28,
+      "question": "What is your development process?",
+      "keywords": ["process", "how", "development", "workflow", "steps", "stages"],
+      "answer": "🔄 <strong>Our Proven Process:</strong><br>1️⃣ Discovery & Requirements<br>2️⃣ Design & Prototyping<br>3️⃣ Development & Coding<br>4️⃣ Testing & QA<br>5️⃣ Launch & Deployment<br>6️⃣ Ongoing Support"
+    },
+    {
+      "id": 29,
+      "question": "What technology stack do you use?",
+      "keywords": ["technology", "tech stack", "programming", "tools", "framework"],
+      "answer": "<strong>Modern Tech Stack:</strong><br>✅ React, Vue.js, Angular (Frontend)<br>✅ Node.js, Python, PHP (Backend)<br>✅ AWS, Azure, Google Cloud<br>✅ AI/ML frameworks<br>✅ Latest & most scalable solutions"
+    },
+    {
+      "id": 30,
+      "question": "Do you provide maintenance services?",
+      "keywords": ["maintenance", "upkeep", "updates", "security", "monitoring"],
+      "answer": "✅ <strong>Comprehensive Maintenance:</strong><br>✅ Regular updates<br>✅ Security patches<br>✅ Performance optimization<br>✅ 24/7 monitoring<br>✅ Bug fixes & improvements"
+    },
+    {
+      "id": 31,
+      "question": "How do I sell products online?",
+      "keywords": ["sell online", "ecommerce setup", "online sales", "store", "products"],
+      "answer": "<strong>Complete E-commerce Setup:</strong><br>✅ E-commerce platform selection<br>✅ Payment gateway integration<br>✅ Product listing & management<br>✅ Digital marketing strategy<br>✅ Conversion optimization"
+    },
+    {
+      "id": 32,
+      "question": "What are your tech solutions?",
+      "keywords": ["tech solutions", "technology", "software", "systems", "tools"],
+      "answer": "<strong>Tech Solutions Include:</strong><br>✅ AI tools & chatbots<br>✅ Automation systems<br>✅ Custom software<br>✅ API integrations<br>✅ Web apps & mobile apps"
+    },
+    {
+      "id": 33,
+      "question": "Do you follow current trends?",
+      "keywords": ["trends", "latest", "modern", "innovation", "future", "new"],
+      "answer": "✅ <strong>Always Ahead of Trends:</strong><br>✅ AI & Machine Learning<br>✅ Blockchain technology<br>✅ Voice search optimization<br>✅ Mobile-first design<br>✅ Immersive AR/VR experiences"
+    },
+    {
+      "id": 34,
+      "question": "How can I improve my online presence?",
+      "keywords": ["online presence", "digital presence", "visibility", "reach", "visibility"],
+      "answer": "<strong>Online Presence Strategy:</strong><br>Website + SEO + Social Media + Content + Branding = <strong>Strong digital presence & customer trust</strong>"
+    },
+    {
+      "id": 35,
+      "question": "What makes Sunbuzz Media different?",
+      "keywords": ["difference", "unique", "why different", "special", "advantage"],
+      "answer": "<strong>What Makes Us Different:</strong><br>✅ Unique blend of marketing + AI tech<br>✅ Affordable pricing<br>✅ Fast turnaround time<br>✅ Personalized approach<br>✅ Proven results"
+    },
+    {
+      "id": 36,
+      "question": "What packages do you offer?",
+      "keywords": ["packages", "plans", "pricing tiers", "offerings"],
+      "answer": "<strong>Package Tiers:</strong><br>✅ Basic: ₹15k/month<br>✅ Pro: ₹35k/month<br>✅ Enterprise: ₹75k+/month<br>✅ Custom solutions available<br>✅ Free consultation to find the right fit"
+    },
+    {
+      "id": 37,
+      "question": "How do I get started with Sunbuzz Media?",
+      "keywords": ["get started", "begin", "onboarding", "start", "how to begin"],
+      "answer": "<strong>Simple 3-Step Process:</strong><br>1️⃣ Free consultation call<br>2️⃣ Custom proposal & planning<br>3️⃣ Sign & start your project!<br><br>📞 Call: +91 7701890895"
+    },
+    {
+      "id": 38,
+      "question": "Do you create 3D animations and AR/VR?",
+      "keywords": ["animation", "3d", "2d", "ar", "vr", "video", "visual"],
+      "answer": "✅ <strong>Animation & AR/VR Experts:</strong><br>✅ 3D product visualization<br>✅ 2D explainer videos<br>✅ Architectural visualization<br>✅ AR/VR experiences<br>✅ Interactive simulations"
+    },
+    {
+      "id": 39,
+      "question": "What about digital marketing services?",
+      "keywords": ["digital marketing", "marketing", "seo", "smm", "ppc", "growth"],
+      "answer": "✅ <strong>Full Digital Marketing Suite:</strong><br>✅ SEO & Google ranking<br>✅ Social Media Marketing (SMM)<br>✅ Content Marketing<br>✅ PPC Campaigns<br>✅ Email marketing<br>✅ Analytics & reporting"
+    },
+    {
+      "id": 40,
+      "question": "Do you offer AI chatbots?",
+      "keywords": ["chatbot", "ai chatbot", "bot", "automation", "customer service"],
+      "answer": "✅ <strong>AI Chatbots & Voice Agents:</strong><br>✅ Custom AI chatbots<br>✅ Voice calling bots<br>✅ WhatsApp automation<br>✅ Website integration<br>✅ 24/7 customer support automation"
+    },
+    {
+      "id": 41,
+      "question": "Do you create audio and music?",
+      "keywords": ["audio", "music", "sound design", "jingle", "composition", "score"],
+      "answer": "✅ <strong>Audio & Sound Solutions:</strong><br>✅ Custom jingles<br>✅ Background scoring<br>✅ Sound design<br>✅ Music composition<br>✅ Professional recording & post-production"
+    },
+    {
+      "id": 42,
+      "question": "What are your team credentials?",
+      "keywords": ["team", "experience", "expertise", "credentials", "qualifications", "years"],
+      "answer": "<strong>Expert Team:</strong><br>✅ 15+ years combined team experience<br>✅ 50+ clients served<br>✅ 95% client retention rate<br>✅ Award-winning designers & developers<br>✅ Industry specialists in multiple domains"
+    },
+    {
+      "id": 43,
+      "question": "Do you work with specific industries?",
+      "keywords": ["industries", "sectors", "government", "healthcare", "retail", "education"],
+      "answer": "<strong>Industries We Serve:</strong><br>✅ Government & Public Sector<br>✅ Education<br>✅ Healthcare<br>✅ Retail & E-commerce<br>✅ Real Estate<br>✅ Legal Services<br>✅ B2B & B2C"
+    },
+    {
+      "id": 44,
+      "question": "What is your client satisfaction rate?",
+      "keywords": ["satisfaction", "happy clients", "reviews", "rating", "testimonials"],
+      "answer": "📊 <strong>Outstanding Results:</strong><br>✅ 100% client satisfaction rate<br>✅ 95% client retention<br>✅ 300% average traffic growth<br>✅ 5+ awards won<br>✅ 200+ successful projects"
+    },
+    {
+      "id": 45,
+      "question": "Do you offer data and analytics?",
+      "keywords": ["analytics", "data", "reports", "insights", "metrics", "performance"],
+      "answer": "✅ <strong>Advanced Analytics & Insights:</strong><br>✅ Real-time dashboards<br>✅ Performance reports<br>✅ Data-driven insights<br>✅ Custom metrics<br>✅ ROI tracking & optimization"
+    }
+  ]
+}
